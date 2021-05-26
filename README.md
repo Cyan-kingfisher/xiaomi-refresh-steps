@@ -10,3 +10,6 @@
 ## 方法二:
 [![project](https://img.shields.io/badge/sentinel-Alibaba-blue)](https://github.com/alibaba/Sentinel)
 可以加上Sentinel对接口流控，再运行
+
+# 刷步数
+下载小米运动，注册小米账号，在小米运动里绑定微信或者支付宝，最后运行接口
